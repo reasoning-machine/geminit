@@ -1,1 +1,1 @@
-### Reasoning Machine (gemini)
+### Reasoning Machine (geminit)

@@ -7,7 +7,7 @@ include:
   - README.md
   - LICENSE.md
 url: https://reasoning-machine.github.io
-baseurl: /gemini
+baseurl: /geminit
 
 title: Reasoning Machine
 description: This is a machine that reasons.

@@ -15,7 +15,7 @@ description: This is a machine that reasons.
 machine:
   name: Reasoning-Machine
   verb: Reasoning
-  instructions_file: geminit_reasoning.md
+  instructions_file: reasoning_geminit.md
   token: gemini_paid
   server: https://localhost:443
   apiUrl: https://generativelanguage.googleapis.com/v1beta/models/
